@@ -1,0 +1,4 @@
+pytest
+pytest-cov
+coverage-conditional-plugin
+dataclasses; python_version < "3.7"
